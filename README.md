@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oaosembykov
-- 👀 I’m interested in Python, Mathematics
+- 👀 I’m interested in Python, Mathematics, Golang, Backend, SQL
 - 🌱 I’m currently learning in Amur state university in the direction of "Applied Mathematics and Informatics"
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me stepanbyzov2004@gmail.com
